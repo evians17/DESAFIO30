@@ -1,0 +1,20 @@
+body {  
+    background-image: url("111.jpg");
+}
+h1 {
+    color: #da3f23;
+    text-align: center;
+    font-family: Impact (sans-serif);
+    font-size: 90px;
+}
+.calculos{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+.button{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    border: 5px;
+
+}
